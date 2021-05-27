@@ -14,3 +14,5 @@ Link to [file2.md]
  Your Photo:
 
  ![Saketh](Gitam-logo.jpg)
+ 
+ Changed
